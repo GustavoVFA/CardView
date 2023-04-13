@@ -90,24 +90,32 @@
                 android:orientation="horizontal">
 
                 <Button
-                    android:layout_width="wrap_content"
+                    android:layout_width="70dp"
                     android:layout_height="wrap_content"
-                    android:text="17:30" />
+                    android:contentDescription="p1"
+                    android:text="17:30"
+                    android:textSize="10dp" />
 
                 <Button
-                    android:layout_width="wrap_content"
+                    android:layout_width="70dp"
                     android:layout_height="wrap_content"
-                    android:text="19:30" />
+                    android:contentDescription="p2"
+                    android:text="19:30"
+                    android:textSize="10dp" />
 
                 <Button
-                    android:layout_width="wrap_content"
+                    android:layout_width="70dp"
                     android:layout_height="wrap_content"
-                    android:text="20:00" />
+                    android:contentDescription="p3"
+                    android:text="20:00"
+                    android:textSize="10dp" />
 
                 <Button
-                    android:layout_width="wrap_content"
+                    android:layout_width="70dp"
                     android:layout_height="wrap_content"
-                    android:text="21:00" />
+                    android:contentDescription="p4"
+                    android:text="21:00"
+                    android:textSize="10dp" />
             </LinearLayout>
 
             <Button
