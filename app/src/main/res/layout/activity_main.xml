@@ -10,9 +10,9 @@
 
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/idCardView"
-        android:layout_gravity="center_horizontal"
         android:layout_width="300dp"
         android:layout_height="400dp"
+        android:layout_gravity="center_horizontal"
         android:clickable="true">
 
         <LinearLayout
@@ -93,31 +93,48 @@
 
                 <Button
                     android:layout_width="70dp"
-                    android:layout_height="wrap_content"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/botao"
                     android:contentDescription="p1"
                     android:text="17:30"
                     android:textSize="10dp" />
 
                 <Button
                     android:layout_width="70dp"
-                    android:layout_height="wrap_content"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/botao"
                     android:contentDescription="p2"
                     android:text="19:30"
                     android:textSize="10dp" />
 
                 <Button
                     android:layout_width="70dp"
-                    android:layout_height="wrap_content"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/botao"
                     android:contentDescription="p3"
                     android:text="20:00"
                     android:textSize="10dp" />
 
                 <Button
                     android:layout_width="70dp"
-                    android:layout_height="wrap_content"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/botao"
                     android:contentDescription="p4"
                     android:text="21:00"
                     android:textSize="10dp" />
+
             </LinearLayout>
 
             <Button
